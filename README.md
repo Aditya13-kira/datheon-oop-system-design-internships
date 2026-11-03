@@ -15,14 +15,6 @@ Technologies Used
 - Visual Studio Code
 - Git and GitHub
 
-Project Navigation
-
-Click on the project name to explore its source code.
-
-1. "Task 1 – Multi-Currency Banking & Ledger Engine" (./Task-1-Banking-Ledger-Engine/)
-2. "Task 2 – Notification & Alert Dispatch Framework" (./Task-2-Notification-Framework/)
-3. "Task 3 – E-Commerce Order Pipeline" (./Task-3-Ecommerce-Order-Pipeline/)
-
 ---
 
 Task 1: Multi-Currency Banking & Ledger Engine
